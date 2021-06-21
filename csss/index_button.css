@@ -1,0 +1,50 @@
+.header h1 {
+    font-size: 70px;
+    text-shadow: 1px 1px black;
+    font-family: Agency FB;
+    color: #071b61;
+    text-decoration: underline;
+}
+
+.header h2 {
+    font-family: Agency FB;
+    font-size: 55px;
+    color: #ee10ee;
+    text-shadow: 1px 1px black;
+    margin-left: 600px;
+}
+
+.primary_btn {
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+    background: transparent;
+    font-weight: bold;
+    padding: 0px 50px;
+    margin-left: 600px !important;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    margin-left: 600px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 48px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    outline: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+}
+
+.primary_btn:hover {
+    background: rgb(255, 8, 8);
+    color: rgb(255, 255, 255);
+}
+
+.button1 {
+    cursor: pointer;
+    background-color: blue;
+}
